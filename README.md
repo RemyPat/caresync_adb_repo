@@ -1,1 +1,1 @@
-# caresync_adb_repo
+This repo is for caresync project for databricks
